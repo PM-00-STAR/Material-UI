@@ -8,8 +8,8 @@ https://mui.com/getting-started/installation/
 https://mui.com/getting-started/installation/
 
 
-## typograpghy
+## typography
 https://mui.com/components/typography/#main-content
 
-## typograpghy attributes
+## typography attributes
 https://mui.com/api/typography/
